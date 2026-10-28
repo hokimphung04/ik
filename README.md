@@ -1,0 +1,1 @@
+hãy giúp mình làm dự toán bảng cân đối kế toán, dựa trên những logic về tài chính-kế toán, hãy thực hiện tính toán và ghi các formulas đấy vào các ô giá trị tương ứng trong sheet "Dự toán BCĐKT", có thể liên kết giá trị từ sheet/bảng khác nếu phù hợp
